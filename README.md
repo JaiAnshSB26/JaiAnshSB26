@@ -41,7 +41,7 @@ My goal is to **continuously push boundaries, learn from the best, create meanin
 
 ### **Systems/Tools/Others**
 - **Frameworks** : SpringBoot (Java-based)
-- **Developer Tools and Other Technologies** - Git, VSCode, IntelliJ, Jupyter Notebook, $\Latex$, Markdown, Anaconda.
+- **Developer Tools and Other Technologies** - Git, VSCode, IntelliJ, Jupyter Notebook, $\LaTeX$, Markdown, Anaconda.
 - **APIs & Web Dev:** Flask, FastAPI 
 - **Technical Expertise & summary:-** Back End Development, API Development, AI, Machine Learning, Neural Networks, Algorithm Design, Data Preprocessing & Analysis, Predictive Modeling, Optimization, Command Line Proficiency (Bash/Zsh)
 
