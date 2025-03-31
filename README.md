@@ -85,7 +85,7 @@ My goal is to **continuously push boundaries, learn from the best, create meanin
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jai-ansh-bindra)  
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/jasb_26)
 
-**_"Curiosity, resilience, and ambition drive everything I do. I thrive on challenges, learning from failures, and building impactful solutions."_** 🚀
+**_"Curiosity, resilience, and ambition drive everything I do. I thrive on challenges, learning from failures, and building impactful solutions. Upwards and beyond, or atleast thrive to."_** 🚀
 
 
 <!--
