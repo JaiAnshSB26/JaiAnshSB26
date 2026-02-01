@@ -1,104 +1,263 @@
-# **Jai Ansh Bindra** 
-### Machine Learning/AI | Quant | Finance | Software Development | Math | Robotics
-*"People who are crazy enough to think they can change the world are the ones who do."* 
+# Jai Ansh Bindra  
+### Machine Learning • Reinforcement Learning • Quantitative Systems • Software Engineering • Founder @ JBAC EdTech
 
-## Hello, नमस्ते, ਸਤਿ ਸ੍ਰੀ ਅਕਾਲ, Salut, Hola, привет 👋! Jai here!
+## Hello, नमस्ते, ਸਤਿ ਸ੍ਰੀ ਅਕਾਲ, Salut, Hola, привет 👋  Jai here.
+*"The ones who go the farthest are the ones who never stop building."*
 
-## 🚀 **About Me** 
-I am an **entrepreneurial-minded problem-solver and a technology-finance enthusiast**, currently pursuing a **Bachelor of Science** in **Mathematics and Computer Science** at **École Polytechnique**. My interests lie at the intersection of **AI/Machine Learning, Quantitative Finance & Trading, Software Development, and High-Performance Computing.**
+*"What you can’t measure, you can’t improve. What you can imagine, you can build."*
 
-I am particularly excited about **Machine learning, LLMs, Generative AI, Computer Vision, Mathematical Modeling, Algorithms, Financial Engineering, Hardware-Software optimization** -- anything that involves tackling **complex, high-stakes problems** with **precision and creativity**.
+*“Learn the rules like a pro so you can break them like an artist.” - Picasso*
 
-Whether it’s **optimizing trading strategies, building AI/Ml pipelines, or developing efficient, scalable models to solve real-world problems**, I thrive on trying to **apply structured, data-driven approaches to solve challenging real-world problems**. My long-term goal is to **bridge AI, Finance, Mathematics, and impact-driven innovation** to create solutions that push the boundaries of what’s possible.  
+*“Greatness is engineered, not inherited.”*
 
-Currently, I am exploring:  
-- **Quantitative Research & Trading** – Algorithmic trading, statistical modeling, and backtesting strategies.  
-- **AI-Powered Systems** – Deep learning applications, NLP, and reinforcement learning.  
-- **Mathematical Optimization** – Convex optimization, stochastic calculus, and probabilistic modeling.  
-- **High-Performance Computing** – Low-latency systems, parallel computing, and GPU acceleration.
+*"People who are crazy enough to think they can change the world are the ones who do."*
 
-My goal is to **continuously push boundaries, learn from the best, create meaningful solutions through technology, and of course, strengthen my expertise in the fields I'm passionate about.**.
 
----
+## 🚀 About Me
 
-## 🛠️ **Tech Stack & Skills**
-### **Programming Languages**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+I am an **entrepreneurial-minded problem-solver, systems-oriented engineer** and a **technology-finance** enthusiast, currently pursuing a **Bachelor of Science in Mathematics and Computer Science at École Polytechnique (France)**.
 
-### **Quant & Machine Learning**
-- **Machine Learning:** TensorFlow, PyTorch, Scikit-Learn, OpenCV
-- **General Libraries & Frameworks** Pandas, Numpy, Matplotlib, BeautifulSoup
-- **Quant Finance:** Alpha strategies, Monte Carlo Simulations, Black-Scholes modeling
-  (Currently learning)
-- **Mathematical Optimization:** Linear & Dynamic Programming, Convex Optimization
-  (Currently learning)
+My interests lie at the intersection of **Machine Learning, Reinforcement Learning, Quantitative Finance, and high-performance software systems**. I am particularly drawn to problems that sit at the boundary of **theory and deployment**, where mathematical modeling, algorithmic design, and real-world engineering constraints coexist. I am also almost equally buzzed about the intricacies of LLMs, Generative AI, Computer Vision, Financial Engineering and Hardware-Software Optimization. 
 
-### **Systems/Tools/Others**
-- **Frameworks** : SpringBoot (Java-based)
-- **Developer Tools and Other Technologies** - Git, VSCode, IntelliJ, Jupyter Notebook, $\LaTeX$, Markdown, Anaconda.
-- **APIs & Web Dev:** Flask, FastAPI 
-- **Technical Expertise & summary:-** Back End Development, API Development, AI, Machine Learning, Neural Networks, Algorithm Design, Data Preprocessing & Analysis, Predictive Modeling, Optimization, Command Line Proficiency (Bash/Zsh)
+I enjoy building **end-to-end systems** - from research prototypes and optimization pipelines to production-grade APIs, open-source libraries, and deployed platforms. I care deeply about **correctness, scalability, interpretability, and measurable performance**, and I prefer work that stands up to scrutiny rather than superficial demos.
+
+Long-term, my goal is to bridge **AI/ML, Mathematics, and Finance** through a combination of **research-driven exploration and product-focused execution**, translating abstract ideas into systems that operate under realistic constraints.
 
 ---
 
-## 🚀 **Projects & Work (Highlights)**
-### **📊 AI-Powered Sports Highlight Generator** *(Ongoing)*
-- Automates highlight extraction from sports videos using **motion detection & AI classification**.
-- **Tech Stack:** OpenCV | Deep Learning | Flask | React.
+## 🔬 Current Focus & Direction
 
-### **🏠 Roommate Matching Algorithm (90% Satisfaction Rate)**
-- Built a **constraint-based optimization model** to allocate **150+ students** based on lifestyle preferences.
-- Achieved **90%+ satisfaction rate** in roommate pairings.
+- **Bachelor Thesis (2026)** - *Reinforcement Learning for Maritime Navigation*  
+  Graph-structured RL, GNN-based traffic representations, and safety–efficiency trade-offs.
 
-### **📜 LLM-Powered Questionnaire Generator**
-- Developed an **AI-powered system** that generates **custom questionnaires** from video lectures.
-- Utilized **LLMs (Llama API), OpenCV for video processing, and Flask/Django for deployment**.
-- Automates **content extraction and question formulation** for efficient learning.
+- **Building Open-source Tools and Platforms** - See [JBAC Edtech](https://jbac.dev) and keep out an eye for some upcoming repositories!
 
-### **🔍 Hackathon Scraper**
-- Built a **web scraper** to aggregate and display **upcoming hackathons globally**.
-- Used **BeautifulSoup and Requests** to extract data from **top hackathon-listing sites**.
-- Designed a **responsive UI with HTML/CSS and Bootstrap** to enhance usability.
+- **Quantitative Strategy & RL Systems**  
+  Portfolio optimization, cost-aware RL agents, and systematic evaluation frameworks.
 
-### **👥 Mentor-Mentee Matching Algorithm**
-- Designed a **constraint satisfaction model** to allocate **students to mentors** based on **interests and lifestyle preferences**.
-- Implemented **Pandas and NumPy** for **data processing and optimization**.
-- Achieved a **90% satisfaction rate** among paired students (approximated value).
+- **Open-source & Product Systems**  
+  Designing, shipping, and maintaining production-ready ML and security tooling.
+
+- **Multi-objective Optimization Research**  
+  Attempt at Analysis of evolutionary optimizers (COMO-CMA-ES) with benchmarking against baseline solvers.
+
 
 ---
 
-## 📚 **Beyond Code**
-- 🎯 **Problem-Solving & Strategy** – Hackathons, estimathons, algorithmic challenges, Investment Banking, Asset Management and Finance Simulations.  
-- 🌍 **Languages & Culture** – Currently improving my **French** and hope to learn **Russian and Spanish** soon.  
-- ⚡ **Hobbies & Sports** – Speedcubing, badminton, occassional weight training, and geopolitics/documentaries keep me engaged outside of tech.
-- **Past & Additional Areas of Interest**- Aerospace (especially avionics), electronics and particle physics/electromagentism/quantum mechanics (basics).
+## 💎 Recent Work (Projects, Platforms, Open-source Libraries/SDKs and Self-motivated Research)
+
+### 🔐 Cybersec-Scanner - Open-Source Security Scanning Toolkit |   [PyPI](https://pypi.org/project/cybersec-scanner/) |  [Repo](https://github.com/JaiAnshSB26/cybersec-scanner)
+**Python • Static & Dynamic Analysis • RAG-assisted Security**
+
+- Open-source Python toolkit for detecting **secrets, vulnerabilities, and misconfigurations** across Git repositories, web applications, browser extensions, and network traffic  
+- Modular multi-scanner architecture including:
+  - Git history scanning for committed secrets  
+  - Web crawler for endpoint and source discovery  
+  - Browser runtime inspection via Playwright  
+  - Network traffic inspection through a MITM proxy  
+  - RAG-assisted semantic analysis with CWE enrichment  
+- Includes **50+ built-in detection patterns** for cloud providers and common services, with support for custom extensions  
+- Distributed as both a **CLI tool and Python SDK**, designed for flexible integration  
+- Achieved **~4,000 downloads**, demonstrating real-world adoption and developer trust
 
 ---
 
-## 📫 **Let’s Connect!**
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jai-ansh-bindra)  
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/jasb_26)
+### ⚡ JBAC AI Trading Coach - Production ML System  | [Link](https://trading.jbac.dev) | [Public Repo](https://github.com/JaiAnshSB26/JBAC_AI_Trading_Coach_Public)
+**FastAPI • Angular • AWS (Lambda, DynamoDB, EC2, Bedrock) • Finance/Trading**
 
-**_"Curiosity, resilience, and ambition drive everything I do. I thrive on challenges, learning from failures, and building impactful solutions. Upwards and beyond, or atleast thrive to."_** 🚀
+- End-to-end deployed platform for **trading learning, feedback, and paper-trading simulation**  
+- Real-time market-data engine computing indicators such as RSI, MACD, Bollinger Bands, SMA/EMA, and P&L  
+- Multi-agent (integrated) LLM architecture (Coach / Critic / Planner) powered by Amazon Bedrock  
+- Optimized for low latency, fast cold starts, and cost-efficient inference
+
+---
+
+### 📦 YtQGen - Open-Source Python Library/SDK (PyPI)  | [PyPI](https://pypi.org/project/ytqgen) | [Repo](https://github.com/JaiAnshSB26/YtQGen_Public)
+**CLI • Audio Processing • LLM Pipelines • Optimization**
+
+- Python library and CLI that converts educational YouTube videos into **printable questionnaires**  
+- Provider-agnostic pipeline supporting multiple LLM and transcription backends  
+- End-to-end workflow: audio extraction → transcription → summarization → question generation → PDF rendering  
+- Modern PEP-621 packaging, automated testing, and CI/CD via GitHub Actions  
+- **250+ downloads within the first 72 hours** of release
 
 
-<!--
-**JaiAnshSB26/JaiAnshSB26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### ♟️ EZ-Chess - Explainable AI Chess Engine & Analysis Toolkit | [PyPI](https://pypi.org/project/ez-chess/) | [Repo](https://github.com/JaiAnshSB26/EZ-Chess)  
+**Python • Stockfish • LLMs • LangGraph • Explainable Chess AI**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Explainable AI-based chess analysis system combining classical engines with LLM reasoning  
+- Integrates Stockfish for high-accuracy evaluation with natural-language explanations of moves and positions  
+- Modular pipeline for best-move recommendations, mistake detection, and strategic insights  
+- Uses LangGraph for structured multi-step reasoning and agent orchestration  
+- Distributed as a Python SDK and CLI tool for interactive and batch analysis  
+- Designed for training, education, and research with emphasis on interpretability over black-box evaluation
+
+---
+
+### 📚 Edu QGen - LLM-Powered Video Summarisation & Questionnaire Platform | [Live (down temporarily)](https://questionnaire.jbac.dev/)
+
+- End-to-end platform converting educational videos into structured summaries and printable questionnaires  
+- Automated pipeline: transcription → summarisation → question generation → PDF delivery  
+- Optimised GPU–CPU workflow reducing processing time by ~92% on long-form videos  
+- Supports large file uploads (400MB+) with secure authentication via Google OAuth  
+- Cloud-native architecture using GCP VM, AWS S3/DynamoDB, and Nginx reverse proxy  
+- Designed as a learning tool, emphasising speed, reliability, and accessibility
+
+---
+
+### 🎤 Mock AI Interviewer — Voice-to-Voice Interview Simulation Platform | [Live](https://interview.jbac.dev/) | [Pubic Forked Repo](https://github.com/JaiAnshSB26/AI-Interviewer-Public)
+**Python • FastAPI • Streamlit • LLMs • Voice AI • AWS • PostgreSQL**
+
+- Full-stack AI platform simulating real-time voice interviews with live transcription and automated feedback  
+- End-to-end pipeline: speech-to-text → question generation → response analysis → PDF report delivery  
+- Integrated Mistral Voxtral for transcription, GPT OSS-20B for evaluation, and gTTS for text-to-speech  
+- Secure authentication and user data management using bcrypt and PostgreSQL  
+- Deployed on Render with AWS S3 storage and CI/CD automation  
+- Optimised for free-tier infrastructure (512MB RAM, fractional CPU) to maximise accessibility
+
+---
+
+## 🧠 Research & Experimental Systems
+
+### 📈 Deep Reinforcement Learning for Portfolio Rebalancing | [Research Report](https://drive.google.com/file/d/1ycBZAP5-_pJOXsVTO76FGk3RB7YggHwZ/view?usp=sharing) | [Repo](https://github.com/JaiAnshSB26/deep-rl-rebalance)
+**Python • Stable-Baselines3 • Gymnasium**
+
+- Designed cost-aware PPO agents for multi-asset portfolio rebalancing  
+- Explicit modeling of transaction costs, turnover control, and position constraints  
+- Achieved **Sharpe ≈ 0.33** against multiple baselines  
+- Evaluation using bootstrap confidence intervals and Diebold–Mariano tests
+
+---
+
+### ♟️ Ashwathama Chess Engine | [Play against the Deployed Engine](https://www.ashwathama-chess.com/) | [Repo](https://github.com/JaiAnshSB26/Ashwathama_Chess_Engine)
+**C++ • Bitboards • OOP • React • Flask**
+
+- Modular chess engine built using bitboards and clean object-oriented design  
+- Implemented move generation, leaper logic, promotions, and debugging utilities  
+- Integrated with a React–Flask web interface for online play  
+- Ranked **Top 10 / 25** in a competitive academic setting
+
+---
+## ⏰ Upcoming
+
+### 🧠 JBAC Strategy Foundry - Quant & AI Research Platform
+**Python • Backtesting • Optimization • Machine Learning**
+
+- Modular research and experimentation framework for **quantitative strategy design and evaluation**  
+- Emphasis on systematic testing under realistic constraints rather than over-fitted backtests  
+- Supports factor-based signals, portfolio construction logic, and performance analysis  
+- Serves as the experimental backbone for trading and RL-based projects within JBAC
+
+---
+### 🧊 CubeBandits - Learning & Optimization in Games  
+**Reinforcement Learning • Search • Heuristics**
+
+- Experimental platform exploring AI-driven problem-solving in structured game environments  
+- Focus on reward design, policy learning, and efficient state representations  
+- Used as a sandbox for reinforcement-learning ideas transferable to real-world optimization tasks
+
+---
+
+## 🧪 Early & Archived Projects
+
+These projects shaped my foundations in algorithmic thinking and system design:
+
+- [Roommate Allocation Algorithm for incoming Bachelor students at École Polytechnique (constraint satisfaction; 150+ students, ~90% satisfaction)](https://github.com/JaiAnshSB26/Machine-Learning-approach-to-Roommate-Flat-mate-allocation-algorithm-for-BX-students)
+- [Mentor–Mentee Allocation Algorithm](https://github.com/JaiAnshSB26/Mentor-Mentee-Allocation-Algorithm) 
+- [Hackathon Scraper (v1)](https://hackathons.jbac.dev/) | [Repo](https://github.com/JaiAnshSB26/hackathon_Scraper)
+- Early ML pipelines (classification, PCA, ensemble methods) - including the course project for the Machine Learning course at École Polytechnique
+
+---
+
+## 🛠️ Technical Skills
+
+**Languages:** Python, C++, C, Java, Haskell, JavaScript, SQL, Bash  
+**ML / AI:** PyTorch, TensorFlow, scikit-learn, OpenCV, Stable-Baselines3, LLM APIs  
+**Systems & DevOps:** Docker, AWS, GCP, PostgreSQL, Linux, CI/CD  
+**Web & Backend:** FastAPI, Flask, React, Angular, REST APIs  
+**Core Concepts:** Algorithms, Optimization, Probability & Statistics, Backtesting, Data Pipelines
+
+---
+
+## 🛠️ Skills, Technologies & Competencies
+
+### 💻 Languages
+![Languages](https://skillicons.dev/icons?i=python,cpp,c,java,haskell,js,html,css,bash)  
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prolog](https://img.shields.io/badge/Prolog-E61B23?style=for-the-badge&logo=prolog&logoColor=white)
+
+**Python · C++ · C · Java · Haskell · JavaScript · HTML/CSS · Bash · SQL(Foundational) · Prolog(Foundational)**
+
+---
+
+### 🤖 AI / ML & Data
+![ML](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv)
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Stable-Baselines3](https://img.shields.io/badge/Stable--Baselines3-2C5AA0?style=for-the-badge&logo=python&logoColor=white)
+
+**PyTorch · TensorFlow · scikit-learn · OpenCV · NumPy · Pandas · Stable-Baselines3 · LLM APIs**
+
+---
+
+### 🌐 Web & Backend
+![Web](https://skillicons.dev/icons?i=fastapi,flask,react,nodejs,express,postgres,mysql)  
+**FastAPI · Flask · React · Node.js · Express · PostgreSQL · MySQL · BeautifulSoup · REST APIs**
+
+---
+
+### ☁️ Systems & DevOps
+![DevOps](https://skillicons.dev/icons?i=docker,aws,gcp,linux,git,nginx)  
+**Docker · AWS · GCP · Linux · Git · Nginx · CI/CD**
+
+---
+
+### 🎨 UI / Visualization
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-306998?style=for-the-badge&logo=python&logoColor=white)
+
+**Streamlit · Matplotlib · Tkinter**
+
+---
+
+**Developer Tooling:** Jupyter · VSCode · IntelliJ · $\LaTeX$ · Markdown · GitHub · GitLab · Anaconda
+
+---
+
+### 🎯 Core Competencies
+
+**Quantitative & Financial Systems -**  
+Alpha strategy research · Portfolio construction and analysis · Monte Carlo simulation · Backtesting & frameworks · Black–Scholes modeling (Currently Learning)
+
+**AI/Machine Learning & Algorithms -**  
+Supervised, Unsupervised & Reinforcement Learning · Neural networks · LLM-driven systems · Predictive modeling · Model evaluation · Feature engineering · Algorithm Design & Optimization (Currently Learning in Some Areas)
+
+**Mathematical Optimization & Applied Mathematics -**  
+Linear & dynamic programming · Convex optimization · Numerical methods · Probability & (Asymptotic) Statistics
+
+**Backend Development & Systems (Engineering) -**  
+Backend & API design/development · Distributed services · Cloud deployment · Authentication & security · Performance optimisation & workflows · CLI tooling (Bash/Zsh)
+
+**Data Engineering & Analysis**  
+Data preprocessing · Data pipelines · Algorithms & data structures · Experimental design & evaluation
+
+**Experimental & Systems Engineering**  
+Benchmarking · Reproducibility · Performance profiling · Resource optimisation · Secure system design
+
+---
+
+## 📫 Connect - Always open to opportunities and meaningful conversations!
+
+- 🌐 Website: https://jbac.dev  
+- 💼 LinkedIn: https://linkedin.com/in/jai-ansh-bindra  
+- 📦 PyPI: https://pypi.org/user/Jbac_dev/  
+- ✉️ Email: [jai-ansh.bindra@polytechnique.edu](mailto:jai-ansh.bindra@polytechnique.edu?subject=Opportunity%20Discussion)
+
+---
+
+*Precision in thought. Boldness in execution.*  
+
