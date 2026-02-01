@@ -1,6 +1,15 @@
 # Jai Ansh Bindra  
 ### Machine Learning • Reinforcement Learning • Quantitative Systems • Software Engineering • Founder @ JBAC EdTech
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JaiAnshSB26&show_icons=true&theme=default&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=JaiAnshSB26&theme=tokyonight&hide_border=true" />
+</p>
+
+
 ## Hello, नमस्ते, ਸਤਿ ਸ੍ਰੀ ਅਕਾਲ, Salut, Hola, привет 👋  Jai here.
 *"The ones who go the farthest are the ones who never stop building."*
 
