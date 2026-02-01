@@ -178,18 +178,6 @@ These projects shaped my foundations in algorithmic thinking and system design:
 - [Hackathon Scraper (v1)](https://hackathons.jbac.dev/) | [Repo](https://github.com/JaiAnshSB26/hackathon_Scraper)
 - Early ML pipelines (classification, PCA, ensemble methods) - including the course project for the Machine Learning course at École Polytechnique
 
----
-
-## 🛠️ Technical Skills
-
-**Languages:** Python, C++, C, Java, Haskell, JavaScript, SQL, Bash  
-**ML / AI:** PyTorch, TensorFlow, scikit-learn, OpenCV, Stable-Baselines3, LLM APIs  
-**Systems & DevOps:** Docker, AWS, GCP, PostgreSQL, Linux, CI/CD  
-**Web & Backend:** FastAPI, Flask, React, Angular, REST APIs  
-**Core Concepts:** Algorithms, Optimization, Probability & Statistics, Backtesting, Data Pipelines
-
----
-
 ## 🛠️ Skills, Technologies & Competencies
 
 ### 💻 Languages
