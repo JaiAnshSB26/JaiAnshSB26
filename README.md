@@ -2,14 +2,6 @@
 ### Machine Learning • Reinforcement Learning • Quantitative Systems • Software Engineering • Founder @ JBAC EdTech
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=JaiAnshSB26&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
-    alt="GitHub Stats"
-  />
-</p>
-
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=JaiAnshSB26&theme=tokyonight&hide_border=true" />
 </p>
 
