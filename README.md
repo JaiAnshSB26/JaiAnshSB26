@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.png" alt="Jai Ansh Bindra Banner" />
+</p>
+
 # Jai Ansh Bindra  
 ### Machine Learning • Reinforcement Learning • Quantitative Systems • Software Engineering • Founder @ JBAC EdTech
 
