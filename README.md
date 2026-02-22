@@ -249,7 +249,7 @@ Benchmarking · Reproducibility · Performance profiling · Resource optimisatio
 
 ## 📫 Connect - Always open to opportunities and meaningful conversations!
 
-- 🌐 Website: https://jbac.dev  
+- 🌐 Websites: [https://jaiansh.me](https://jaiansh.me) | [https://jbac.dev](https://jbac.dev)
 - 💼 LinkedIn: https://linkedin.com/in/jai-ansh-bindra  
 - 📦 PyPI: https://pypi.org/user/Jbac_dev/  
 - ✉️ Email: [jai-ansh.bindra@polytechnique.edu](mailto:jai-ansh.bindra@polytechnique.edu?subject=Opportunity%20Discussion)
